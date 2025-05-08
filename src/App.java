@@ -14,6 +14,6 @@ public class App {
         }else{
             System.out.println("Datos incorrectos");
         }
-        
+        sc.close();
     }
 }
